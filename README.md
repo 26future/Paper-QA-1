@@ -26,6 +26,7 @@
 ***
 ## 1. Directory and Pre-processing
 ### 1-1. 키워드 추출(Keyword Extraction) 모델
+`* 검색 모델 관련 코드 및 모델은 미공개`
 ```
 ├── data
 │   ├── train.json
